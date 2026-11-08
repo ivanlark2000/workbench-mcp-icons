@@ -1,0 +1,77 @@
+{
+  "name": "workbench-mcp",
+  "owner": {
+    "name": "i-pripisnov"
+  },
+  "metadata": {
+    "description": "Workbench MCP endpoints as Cursor plugins with logos"
+  },
+  "plugins": [
+    {
+      "name": "tfs-ext",
+      "source": "tfs-ext",
+      "description": "Azure DevOps / TFS work items and handoff",
+      "logo": "tfs-ext/assets/logo.svg"
+    },
+    {
+      "name": "confluence",
+      "source": "confluence",
+      "description": "Compulink Confluence / Wiki MCP",
+      "logo": "confluence/assets/logo.svg"
+    },
+    {
+      "name": "gitlab-zereight",
+      "source": "gitlab-zereight",
+      "description": "GitLab MR, pipelines and repository tools",
+      "logo": "gitlab-zereight/assets/logo.svg"
+    },
+    {
+      "name": "unified-db",
+      "source": "unified-db",
+      "description": "PostgreSQL and SQL Server unified MCP",
+      "logo": "unified-db/assets/logo.svg"
+    },
+    {
+      "name": "workbench-local",
+      "source": "workbench-local",
+      "description": "Local SQL and DigitXML worktree tools",
+      "logo": "workbench-local/assets/logo.svg"
+    },
+    {
+      "name": "opensearch",
+      "source": "opensearch",
+      "description": "OpenSearch index and query tools",
+      "logo": "opensearch/assets/logo.svg"
+    },
+    {
+      "name": "playwright",
+      "source": "playwright",
+      "description": "Browser automation MCP",
+      "logo": "playwright/assets/logo.svg"
+    },
+    {
+      "name": "bitrix24",
+      "source": "bitrix24",
+      "description": "Bitrix24 tasks and CRM tools",
+      "logo": "bitrix24/assets/logo.svg"
+    },
+    {
+      "name": "yandex-mail",
+      "source": "yandex-mail",
+      "description": "Yandex Mail MCP",
+      "logo": "yandex-mail/assets/logo.svg"
+    },
+    {
+      "name": "agent-knowledge",
+      "source": "agent-knowledge",
+      "description": "Agent Knowledge RAG and business KB",
+      "logo": "agent-knowledge/assets/logo.svg"
+    },
+    {
+      "name": "redis-session",
+      "source": "redis-session",
+      "description": "Redis session cache and tool helpers",
+      "logo": "redis-session/assets/logo.svg"
+    }
+  ]
+}

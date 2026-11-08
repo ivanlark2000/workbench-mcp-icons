@@ -1,0 +1,17 @@
+{
+  "name": "agent-knowledge",
+  "displayName": "Agent Knowledge",
+  "version": "1.0.0",
+  "description": "Agent Knowledge RAG and business KB",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "rag",
+    "kb"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "unified-db",
+  "displayName": "Unified DB",
+  "version": "1.0.0",
+  "description": "PostgreSQL and SQL Server unified MCP",
+  "author": {
+    "name": "i-pripisnov"
+  },
+  "keywords": [
+    "mcp",
+    "workbench",
+    "database"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

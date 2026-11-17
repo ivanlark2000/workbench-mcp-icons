@@ -32,12 +32,6 @@
       "logo": "unified-db/assets/logo.svg"
     },
     {
-      "name": "workbench-local",
-      "source": "workbench-local",
-      "description": "Local SQL and DigitXML worktree tools",
-      "logo": "workbench-local/assets/logo.svg"
-    },
-    {
       "name": "opensearch",
       "source": "opensearch",
       "description": "OpenSearch index and query tools",

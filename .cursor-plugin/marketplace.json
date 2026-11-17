@@ -72,6 +72,12 @@
       "source": "redis-session",
       "description": "Redis session cache and tool helpers",
       "logo": "redis-session/assets/logo.svg"
+    },
+    {
+      "name": "workbench",
+      "source": "workbench",
+      "description": "Go stdio Workbench MCP (context_pack + SQL nav + bridges)",
+      "logo": "workbench/assets/logo.svg"
     }
   ]
 }

@@ -31,8 +31,14 @@ Each plugin directory:
 
 Root `.cursor-plugin/marketplace.json` lists all plugins.
 
+## workbench (Go stdio)
+
+Plugin `workbench` wraps `C:/source/workbench/bin/workbench.exe` (Ivan_PK).
+After install: remove the raw `workbench` block from `~/.cursor/mcp.json` to avoid a letter-tile duplicate.
+
 ## CDN
 
 ```text
 https://cdn.jsdelivr.net/gh/ivanlark2000/workbench-mcp-icons@master/<plugin>/logo.svg
 ```
+
